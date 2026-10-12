@@ -1,0 +1,15 @@
+{
+  "name": "listing-forge",
+  "version": "0.1.0",
+  "description": "跨境电商全链路运营 agent 核心：自研轻量 DAG 编排（检查点/重跑/留痕）+ 多平台 listing 格式校验 + 写操作审批闸门。",
+  "type": "module",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "node --test",
+    "demo": "node src/demo.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "license": "MIT"
+}
